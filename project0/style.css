@@ -1,0 +1,142 @@
+body {
+    background-color: #202124;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    box-sizing: border-box;
+    height: 48px;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    }
+
+nav span {
+    content: url(https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_light_clr_74x24px.svg);
+    display: inline-block;
+    height: 24px;
+    width: 74px;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.gb {
+    padding: 8px;
+}
+
+.gb_Cc {
+    padding-left: 12px;
+}
+
+.appbar {
+    background: none;
+    color:#f28b82;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+
+.line {
+    border-color: var(--gS5jXb);
+    border-bottom: 1px solid;
+}
+
+.Mza7yc {
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+}
+
+.otByu {
+    width: 100%;
+    clear: both;
+    color: #969ba1;
+}
+
+.yIQOUb {
+    clear: both;
+}
+
+.I1Kbt {
+    float: left;
+    min-width: 167px;
+    width: 16%;
+    font-size: 16px;
+    min-height: 42px;
+    font-weight: 500;
+    vertical-align: middle;
+    color: #e8eaed;
+}
+
+.HoCfzc {
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.orcpGe {
+    display: inline-block;
+    width: 33%;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 5px;
+    vertical-align: middle;
+    color: #e8eaed;
+}
+
+.lOTAE {
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.FAcADc {
+    color: #969ba1;
+    float: left;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.jYcx0e {
+    float: left;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.PLLUQc {
+    padding-right: 16px;
+}
+
+.jfk-textinput {
+    background: #202124;
+    border: 1px solid #5f6368;
+    color: #bdc1c6;
+}
+
+.cwqNnb_dulCv {
+    float:left;
+    width: 32%;
+    min-width: 160px;
+    margin: 0 0 8px 1%;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+}
