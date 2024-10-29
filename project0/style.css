@@ -18,6 +18,21 @@ nav span {
     width: 74px;
 }
 
+.nav-items {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-right: 4px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 div {
     margin: 0;
     padding: 0;
@@ -178,10 +193,12 @@ div {
     padding: 0 12px;
     background: #4d90fe;
     border-color: #4d90fe;
+    border-radius: 2px;
     color: #202124;
     font-size: 11px;
     font-weight: bold;
     text-align: center;
+    line-height: 27px;
     
 
 }
@@ -189,6 +206,18 @@ div {
 .submit-button:hover {
     background: #8ab4f8;
     border-color: #8ab4f8;
+}
+
+
+.google-logo {
+    content: url(https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_light_clr_74x24px.svg);
+    height: 92px;
+    width: 272px;
+}
+
+.bcont {
+    width: 100%;
+    text-align: center;
 }
 
 
