@@ -1,0 +1,84 @@
+[33mcommit 241492b638a8d15021525610600baa7ecab6bd07[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Tue Oct 29 10:24:42 2024 -0300
+
+    Advanced done, started the index changes
+
+[33mcommit 806aed32eb7d6e5454c9a53c3ebc6f163d6ae624[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Mon Oct 28 13:41:52 2024 -0300
+
+    New changes to the advanced search
+
+[33mcommit cfd0033dbe804bda8a2c11032ce78c385174fdc4[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Sat Oct 26 10:30:57 2024 -0300
+
+    Copy of the google Search
+
+[33mcommit 73499706c65e5cc53bc6bc4ada0b5b92c8131a24[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Thu Oct 24 13:32:13 2024 -0300
+
+    number handler
+
+[33mcommit b4ec8b7b642c4484fc207a82e068a8be82264a17[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Thu Oct 24 13:27:10 2024 -0300
+
+    input and print
+
+[33mcommit 058b348af69ff30f053b503e13bc0e6abdc3a816[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Thu Oct 24 13:04:37 2024 -0300
+
+    First python code
+
+[33mcommit a78dbb73c8b86dd2ffd1f3a7e9c145c84bbb84db[m
+Merge: a5218b1 6548da6
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 13:07:45 2024 -0300
+
+    Merge branch 'style'
+
+[33mcommit a5218b1370e71729e4a42135212b35a6043c4fcd[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 13:07:00 2024 -0300
+
+    added ponctuation
+
+[33mcommit 6548da66ab5a314ed422cde3a4328d459d746e61[m[33m ([m[1;32mstyle[m[33m)[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 13:04:53 2024 -0300
+
+    added style properties
+
+[33mcommit af7507fe77fe83af068bf3821b144df9d8b3d5d8[m
+Author: Matheus <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 12:48:34 2024 -0300
+
+    change name
+
+[33mcommit fe677ddacd6e07178191e9e0434af5a1348d2a3b[m
+Author: unknown <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 12:32:52 2024 -0300
+
+    added h2
+
+[33mcommit 9605bfc0e8660aa649f05b08e292d1a42cb57892[m
+Author: ang3l1s <119751607+ang3l1s@users.noreply.github.com>
+Date:   Wed Oct 23 12:22:57 2024 -0300
+
+    Update hello.html
+
+[33mcommit 921af45a740083e7f94cfdb7786573fb3c7db823[m
+Author: unknown <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 12:21:00 2024 -0300
+
+    add a heading
+
+[33mcommit 6c8ee256a11812e024e9a5b25ca46e142ba5607a[m
+Author: unknown <matheus.angelis17@gmail.com>
+Date:   Wed Oct 23 12:11:52 2024 -0300
+
+    add hello.html

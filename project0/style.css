@@ -1,6 +1,9 @@
 body {
     background-color: #202124;
     font-family: Arial, sans-serif;
+    height: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 nav {
@@ -199,8 +202,6 @@ div {
     font-weight: bold;
     text-align: center;
     line-height: 27px;
-    
-
 }
 
 .submit-button:hover {
@@ -215,10 +216,99 @@ div {
     width: 272px;
 }
 
-.bcont {
-    width: 100%;
-    text-align: center;
+.imagem {
+    color:#4487f6;
+    font:16px/16px Arial,sans-serif;
+    position: absolute;
+    left:215px;
+    bottom:0;
+    white-space:nowrap;
 }
+
+
+.bcontf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 290px;
+    max-height: 290px;
+    position: relative;
+}
+
+.bcont {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.bconts {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 584px;
+    padding-top: 20px;
+}
+
+.indiv {
+    background: #4d5156;
+    border-radius: 24px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.centerinput {
+    width: 400px;
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+
+.indivH {
+    box-shadow: none;
+    background: transparent;
+    border: transparent;
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    color: #e8eaed;
+}
+
+.indivH:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+}
+
+.bdiv {
+    display: flex;
+    padding-top: 12px;
+    align-items: center;
+    justify-content: center;
+}
+
+.bsearch {
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 27px;
+    font-size: 14px;
+    border: 1px solid #303134;
+    background-color: #303134;
+    border-radius: 4px;
+    color: #e8e8e8;
+}
+
+
 
 
 
